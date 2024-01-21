@@ -22,7 +22,26 @@ item Tofu
 		WorldStaticModel 		= Tofu,
 	}
 
-	/*********************************************************************/
+item TofuFried
+	{
+		DisplayName 			= Fried Tofu,
+		DisplayCategory 		= Food,
+		Type 					= Food,
+		Weight 					= 0.3,
+		Icon 					= TofuFried,
+		EvolvedRecipe 			= Soup:15;Stew:15;Stir fry Griddle Pan:15;Stir fry:15;Burger:15;Salad:15;RicePot:15;RicePan:15;Roasted Vegetables:15;PastaPot:15;PastaPan:15;Taco:5;Burrito:15;Burger:15,
+		FoodType 				= Vegetables,
+		DaysFresh 				= 6,
+		DaysTotallyRotten 		= 14,
+		HungerChange 			= -30,
+		Calories 				= 270,
+		Carbohydrates 			= 6,
+		Lipids 					= 10.55,
+		Proteins 				= 34.28,
+		WorldStaticModel 		= TofuFried,
+	}
+
+/*********************************************************************/
 
 item VTempeh
 	{
@@ -43,4 +62,78 @@ item VTempeh
 		Proteins 				= 36.28,
 		WorldStaticModel 		= Tofu,
 	}
+
+	/********** LIQUIDS **********/
+
+item VOatMilk
+	{
+		DisplayName 			= Oat Milk,
+		DisplayCategory 		= Food,
+		Type 					= Food,
+		Weight 					= 1.0,
+		Icon 					= Milk,
+		CantBeFrozen 			= TRUE,
+		EvolvedRecipe 			= HotDrink:2;HotDrinkRed:2;HotDrinkWhite:2;HotDrinkSpiffo:2;HotDrinkTea:2;Beverage:2;Beverage2:2;Oatmeal:2;Soup:5;Stew:5,
+		FoodType 				= Milk,
+		Packaged 				= TRUE,
+		DaysFresh 				= 8,
+		DaysTotallyRotten 		= 12,
+		HungerChange 			= -10,
+		ThirstChange 			= -100,
+		Calories 				= 110,
+		Carbohydrates 			= 13,
+		Lipids 					= 2.5,
+		Proteins 				= 8,
+		CustomContextMenu 		= Drink,
+		CustomEatSound 			= DrinkingFromCarton,
+		WorldStaticModel 		= Milk,
+	}	
+
+item VSoyMilk
+	{
+		DisplayName 			= Soy Milk,
+		DisplayCategory 		= Food,
+		Type 					= Food,
+		Weight 					= 1.0,
+		Icon 					= Milk,
+		CantBeFrozen 			= TRUE,
+		EvolvedRecipe 			= HotDrink:2;HotDrinkRed:2;HotDrinkWhite:2;HotDrinkSpiffo:2;HotDrinkTea:2;Beverage:2;Beverage2:2;Oatmeal:2;Soup:5;Stew:5,
+		FoodType 				= Milk,
+		Packaged 				= TRUE,
+		DaysFresh 				= 8,
+		DaysTotallyRotten 		= 12,
+		HungerChange 			= -10,
+		ThirstChange 			= -100,
+		Calories 				= 110,
+		Carbohydrates 			= 13,
+		Lipids 					= 2.5,
+		Proteins 				= 8,
+		CustomContextMenu 		= Drink,
+		CustomEatSound 			= DrinkingFromCarton,
+		WorldStaticModel 		= Milk,
+	}	
+
+item VAlmondMilk
+	{
+		DisplayName 			= Almond Milk,
+		DisplayCategory 		= Food,
+		Type 					= Food,
+		Weight 					= 1.0,
+		Icon 					= Milk,
+		CantBeFrozen 			= TRUE,
+		EvolvedRecipe 			= HotDrink:2;HotDrinkRed:2;HotDrinkWhite:2;HotDrinkSpiffo:2;HotDrinkTea:2;Beverage:2;Beverage2:2;Oatmeal:2;Soup:5;Stew:5,
+		FoodType 				= Milk,
+		Packaged 				= TRUE,
+		DaysFresh 				= 8,
+		DaysTotallyRotten 		= 12,
+		HungerChange 			= -10,
+		ThirstChange 			= -100,
+		Calories 				= 110,
+		Carbohydrates 			= 13,
+		Lipids 					= 2.5,
+		Proteins 				= 8,
+		CustomContextMenu 		= Drink,
+		CustomEatSound 			= DrinkingFromCarton,
+		WorldStaticModel 		= Milk,
+	}	
 }

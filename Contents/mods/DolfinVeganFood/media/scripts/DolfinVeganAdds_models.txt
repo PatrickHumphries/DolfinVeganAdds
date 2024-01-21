@@ -2,7 +2,7 @@ module Base {
 
 model Tempeh
 	{
-		mesh = WorldItems/Tofu,
+		mesh = WorldItems/Tempeh,
 		texture = WorldItems/Tempeh,
 		scale = 0.3,
 	}
@@ -13,4 +13,34 @@ model Tofu
 		texture = WorldItems/Tofu,
 		scale = 0.3,
 	}
+
+model TofuFried
+    {
+        mesh = WorldItems/TofuFried,
+		texture = WorldItems/TofuFried,
+        scale = 0.4,
+    }
+
+	/************* LIQUIDS *************/
+
+model VOatMilk_Ground
+    {
+        mesh = WorldItems/Milk,
+        texture = WorldItems/Milk,
+        scale = 0.4,
+    }
+
+model VSoyMilk_Ground
+    {
+        mesh = WorldItems/Milk,
+        texture = WorldItems/Milk,
+        scale = 0.4,
+    }
+
+model VAlmondMilk_Ground
+    {
+        mesh = WorldItems/Milk,
+        texture = WorldItems/Milk,
+        scale = 0.4,
+    }
 }
