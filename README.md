@@ -8,7 +8,7 @@
 
 1.  **Nutritional Buffs for Tofu:**
 
-    - Tofu, a staple of vegan diets, now provides enhanced nutritional benefits to survivors. Enjoy a boost in essential nutrients when consuming tofu-based dishes.
+    - Tofu now provides enhanced nutritional benefits to survivors. Enjoy a boost in essential nutrients when consuming tofu-based dishes.
 
 2.  **Introduction of Tempeh:**
 
@@ -38,7 +38,3 @@ This mod is designed to be compatible with [Project Zomboid Version 41](#). Ensu
 
 If you encounter any issues or have suggestions for improvement, feel free to [open an issue](#) on the GitHub repository. Contributions and pull requests are welcome!
 
-## Credits
-
-- **Mod Author:** Your Name
-- **GitHub Repository:** [Dolfin's Vegan Additions](#)
