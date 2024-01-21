@@ -12,6 +12,8 @@ Buffed Tofu is a modification for the popular survival game Project Zomboid. Thi
 
 3. **Realism:** The mod strives for a touch of realism, considering the nutritional benefits associated with tofu in real life. This adds an immersive element to the gameplay, making food choices more reflective of real-world nutritional considerations.
 
+4. **Increased Spawn Frequency:** Both tofu and fried tofu will now be more abundant in the world of Project Zomboid! The number of locations in which tofu-based items can spawn has been slightly increased.
+
 ## Installation
 
 1. **Download the Mod:** Start by downloading the mod files from the official mod repository or another trusted source.
