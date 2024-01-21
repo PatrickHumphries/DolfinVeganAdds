@@ -1,0 +1,10 @@
+version=1
+id=3144082157
+title=Dolfin's Vegan Additions
+description=Hello! This is my first ever mod, and as such it is quite small. 
+description=
+description=The goal of this mod is extremely simple. Buff tofu stats so that they are more aligned with the actual nutrional value of a block of tofu, and also add Tempeh to the game for another plant-based protein source. 
+description=
+description=Tofu and Tempeh are not commonly spawning items in households, but can be found in most Chinese and Sushi restaurants in game. 
+tags=Build 41;Balance;Food
+visibility=public

@@ -1,0 +1,46 @@
+module Base {
+	
+/******************* BUFF TOFU *******************/
+
+item Tofu
+	{
+		DisplayName 			= Tofu,
+		DisplayCategory 		= Food,
+		Type 					= Food,
+		Weight 					= 0.3,
+		Icon 					= Tofu,
+		EvolvedRecipe 			= Pizza:10;Soup:10;Stew:10;Stir fry Griddle Pan:10;Stir fry:10;Burger:10;Salad:10;RicePot:10;RicePan:10;Roasted Vegetables:10;PastaPot:10;PastaPan:10;Taco:5;Burrito:10;Burger:10,
+		FoodType 				= Vegetables,
+		Packaged 				= TRUE,
+		DaysFresh 				= 6,
+		DaysTotallyRotten 		= 14,
+		HungerChange 			= -30,
+		Calories 				= 270,
+		Carbohydrates 			= 6,
+		Lipids 					= 10.55,
+		Proteins 				= 34.28,
+		WorldStaticModel 		= Tofu,
+	}
+
+	/*********************************************************************/
+
+item VTempeh
+	{
+		DisplayName 			= Tempeh,
+		DisplayCategory 		= Food,
+		Type 					= Food,
+		Weight 					= 0.3,
+		Icon 					= Tofu,
+		EvolvedRecipe 			= Pizza:10;Soup:10;Stew:10;Stir fry Griddle Pan:10;Stir fry:10;Burger:10;Salad:10;RicePot:10;RicePan:10;Roasted Vegetables:10;PastaPot:10;PastaPan:10;Taco:5;Burrito:10;Burger:10,
+		FoodType 				= Vegetables,
+		Packaged 				= TRUE,
+		DaysFresh 				= 6,
+		DaysTotallyRotten 		= 14,
+		HungerChange 			= -30,
+		Calories 				= 275,
+		Carbohydrates 			= 6,
+		Lipids 					= 10.55,
+		Proteins 				= 36.28,
+		WorldStaticModel 		= Tofu,
+	}
+}
