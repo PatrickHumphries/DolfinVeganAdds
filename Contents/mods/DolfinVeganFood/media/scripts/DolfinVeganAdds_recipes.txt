@@ -1,12 +1,2 @@
 module Base {
-
-recipe Open Pack of Tempeh
-	{
-		VTempeh,
-        Result:Tempeh,
-        Time:8.0,
-        Category:Cooking,
-        OnGiveXP:Recipe.OnGiveXP.None,
-        AnimNode:Disassemble,
-	}
 }

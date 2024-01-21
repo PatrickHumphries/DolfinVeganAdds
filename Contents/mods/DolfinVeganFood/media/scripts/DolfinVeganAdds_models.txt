@@ -1,16 +1,15 @@
 module Base {
 
-model Tempeh
-	{
-		mesh = WorldItems/Tofu,
-		texture = WorldItems/Tempeh,
-		scale = 0.3,
-	}
-
 model Tofu
 	{
 		mesh = WorldItems/Tofu,
 		texture = WorldItems/Tofu,
 		scale = 0.3,
 	}
+
+model TofuFried_Ground
+    {
+        mesh = WorldItems/TofuFried,
+        scale = 0.4,
+    }
 }

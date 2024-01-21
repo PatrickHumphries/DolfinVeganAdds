@@ -1,40 +1,30 @@
-# DolfinVeganAdds
+Project Zomboid Tofu Nutrition Mod
+Overview
+Buffed Tofu is a modification for the popular survival game Project Zomboid. This mod aims to enhance the nutritional value of tofu within the game, providing players with a more viable and rewarding food option.
 
-# Dolfin's Vegan Additions Mod for Project Zomboid
+Features
+Increased Nutritional Values: Tofu will now have higher nutritional values, making it a more appealing and strategic choice for players looking to maintain a healthy character in the post-apocalyptic world of Project Zomboid.
 
-## Overview
+Balanced Gameplay: The mod is designed to maintain balance within the game. The increased nutritional values of tofu are carefully calibrated to ensure that the overall game difficulty and challenge remain intact.
 
-"Dolfin's Vegan Additions" is a mod for Project Zomboid that enhances the culinary experience for vegan survivors in the zombie apocalypse. This mod introduces two significant changes to the game's food mechanics:
+Realism: The mod strives for a touch of realism, considering the nutritional benefits associated with tofu in real life. This adds an immersive element to the gameplay, making food choices more reflective of real-world nutritional considerations.
 
-1.  **Nutritional Buffs for Tofu:**
+Installation
+Download the Mod: Start by downloading the mod files from the official mod repository or another trusted source.
 
-    - Tofu now provides enhanced nutritional benefits to survivors. Enjoy a boost in essential nutrients when consuming tofu-based dishes.
+Extract Files: Extract the mod files from the downloaded archive using a file extraction tool.
 
-2.  **Introduction of Tempeh:**
+Copy to Mod Folder: Copy the extracted mod files to the "Mods" folder within your Project Zomboid installation directory.
 
-    - Tempeh, a versatile and protein-packed soy product, makes its debut in Project Zomboid. Survivors can now discover, cook, and enjoy tempeh-based recipes for a satisfying and nutritious meal.
+Activate the Mod: Launch Project Zomboid and navigate to the in-game mod menu. Activate the "Tofu Nutrition Mod" to apply the changes.
 
-## Features
-
-- Improved nutritional values for tofu-based food items.
-- Inclusion of tempeh as a new food item.
-
-## Installation
-
-1.  Download the latest release of the mod from the [Releases](#) section.
-2.  Extract the contents of the ZIP file into the "mods" folder of your Project Zomboid installation.
-3.  Launch Project Zomboid and enable the "Dolfin's Vegan Additions" mod in the in-game mod menu.
+Enjoy the Enhanced Tofu: Once activated, experience the enhanced nutritional benefits of tofu in the game.
 
 OR
 
-Simply subscribe to the mod on the Steam workshop
-https://steamcommunity.com/sharedfiles/filedetails/?id=3144082157&searchtext=vegan
+Simply download the mod via the Steam Workshop.
 
-## Compatibility
+Compatibility
+This mod is designed to be compatible with Build 41 of Project Zomboid. Ensure that you have the correct version of the game for optimal performance.
 
-This mod is designed to be compatible with [Project Zomboid Version 41](#). Ensure that you are using a compatible version of the game for the best experience.
-
-## Feedback and Contributions
-
-If you encounter any issues or have suggestions for improvement, feel free to [open an issue](#) on the GitHub repository. Contributions and pull requests are welcome!
-
+Happy gaming, and always remember - this is how you died.
