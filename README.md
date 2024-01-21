@@ -1,4 +1,4 @@
-# Project Zomboid Tofu Nutrition Mod
+# Project Zomboid - Buffed Tofu Mod
 
 ## Overview
 
